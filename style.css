@@ -1,0 +1,70 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .heading1{
+    font-size: 25px;
+    font-family: 'PT Sans Narrow', sans-serif;
+  }
+
+  .name_heading_two{
+    font-size: 18px;
+    font-family: 'Zilla Slab Highlight', cursive;
+    font-weight: bold;
+  }
+
+  .object, .accuracy{
+    font-family: 'Yatra One', cursive;
+    color: black;
+    font-weight: bolder;
+    font-size: 16px;
+    margin-top: 3px !important;
+  }
+
+  .main_div{
+    width: 50%;
+    height: 8%;
+  }
+
+  canvas{
+    margin-top: 50px;
+    border: inset rgb(252, 172, 252) 4px;
+    box-shadow: 5px 5px 18px black;
+  }
+
+  .copy_right_footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-family: 'Acme', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+  #accuracy_span, #object_name{
+    white-space: pre-line;
+  }
+ 
